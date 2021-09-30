@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/undoImage"
+        android:title="Undo Image"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/rotateImage"
+        android:title="Rotate Image"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/cropImage"
+        android:title="Crop Image"
+        tools:ignore="HardcodedText" />
+</menu>
